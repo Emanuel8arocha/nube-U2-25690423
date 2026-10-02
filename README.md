@@ -4,4 +4,3 @@
 
 
 ## objetivo
-una linea: que demuestra este ejercicio.
